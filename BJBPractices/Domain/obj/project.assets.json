@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/dotnet3/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/var/www/MeddlingDeveloper/BJBPractices/Domain/Domain.csproj",
+      "projectUniqueName": "/home/dotnet3/MeddlingDeveloper/MeddlingDeveloper/BJBPractices/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/var/www/MeddlingDeveloper/BJBPractices/Domain/Domain.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/var/www/MeddlingDeveloper/BJBPractices/Domain/obj/",
+      "projectPath": "/home/dotnet3/MeddlingDeveloper/MeddlingDeveloper/BJBPractices/Domain/Domain.csproj",
+      "packagesPath": "/home/dotnet3/.nuget/packages/",
+      "outputPath": "/home/dotnet3/MeddlingDeveloper/MeddlingDeveloper/BJBPractices/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/dotnet3/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -231,7 +231,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
       }
     }
   }
